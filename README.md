@@ -1,4 +1,4 @@
-# Bi-LSTM-project
+# Anti-oxidative Peptide classifier
 Antioxidative Peptide Prediction Using Neural Network (LSTM)
 # Antioxidative Peptide Classification using Machine Learning
 
